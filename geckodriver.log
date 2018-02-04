@@ -182,3 +182,25 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, l
 
 (/usr/lib/firefox/firefox:2885): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716001855	geckodriver	INFO	geckodriver 0.19.1
+1517716001867	geckodriver	INFO	Listening on 127.0.0.1:39941
+1517716003006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9aOrdQ0QUy8T"
+1517716004193	Marionette	INFO	Enabled via --marionette
+1517716005336	Marionette	INFO	Listening on port 40129
+1517716005415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:8589): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716148597	geckodriver	INFO	geckodriver 0.19.1
+1517716148601	geckodriver	INFO	Listening on 127.0.0.1:43761
+1517716149821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eLRVtszUcaXa"
+1517716152150	Marionette	INFO	Enabled via --marionette
+1517716153795	Marionette	INFO	Listening on port 41267
+1517716153846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:9440): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

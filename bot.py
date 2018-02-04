@@ -14,8 +14,8 @@ while True:
         # driver.refresh()
         # time.sleep(1)
 
-        # exo = driver.find_element_by_xpath('//*[@id="hot-card"]/div[1]/div/a/div').click()
-        winter = driver.find_element_by_xpath('//*[@id="recommend-card"]/div[3]/div/a/div').click()
+        exo = driver.find_element_by_xpath('//*[@id="hot-card"]/div[1]/div/a/div').click()
+        # winter = driver.find_element_by_xpath('//*[@id="recommend-card"]/div[3]/div/a/div').click()
         time.sleep(0.5)
 
         buy_btn = driver.find_element_by_class_name('buyTicketsBtn').click()
@@ -24,8 +24,8 @@ while True:
         driver.find_element_by_class_name('buyTicketsBtn').click()
         driver.refresh()
     except:
-        area = driver.find_element_by_tag_name('area').click()
+        # area = driver.find_element_by_tag_name('area').click()
         break
-time.sleep(0.5)
-ticket = driver.find_element_by_xpath('//*[@id="ticketValue"]/option[5]').click()
-real_buy = driver.find_element_by_xpath('//*[@id="bookNowBtn"]').click()
+# time.sleep(0.5)
+# ticket = driver.find_element_by_xpath('//*[@id="ticketValue"]/option[5]').click()
+# real_buy = driver.find_element_by_xpath('//*[@id="bookNowBtn"]').click()
