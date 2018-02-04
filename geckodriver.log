@@ -1,0 +1,184 @@
+1517682623500	geckodriver	INFO	geckodriver 0.19.1
+1517682623503	geckodriver	INFO	Listening on 127.0.0.1:54903
+1517682624587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4ltnFoobIYAE"
+1517682625503	Marionette	INFO	Enabled via --marionette
+1517682626648	Marionette	INFO	Listening on port 36191
+1517682626698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:25106): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517684706005	geckodriver	INFO	geckodriver 0.19.1
+1517684706008	geckodriver	INFO	Listening on 127.0.0.1:57323
+1517684707116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gf8brjlcadEU"
+1517684707607	Marionette	INFO	Enabled via --marionette
+1517684708507	Marionette	INFO	Listening on port 44303
+1517684708540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:27511): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517684769378	geckodriver	INFO	geckodriver 0.19.1
+1517684769385	geckodriver	INFO	Listening on 127.0.0.1:36679
+1517684770481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qu7oMzTwtGFG"
+1517684771104	Marionette	INFO	Enabled via --marionette
+1517684772202	Marionette	INFO	Listening on port 43219
+1517684772302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517684797231	geckodriver	INFO	geckodriver 0.19.1
+1517684797234	geckodriver	INFO	Listening on 127.0.0.1:59661
+1517684798317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0xJUp4sVH6ho"
+1517684798735	Marionette	INFO	Enabled via --marionette
+1517684799632	Marionette	INFO	Listening on port 34925
+1517684799731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517684830242	geckodriver	INFO	geckodriver 0.19.1
+1517684830245	geckodriver	INFO	Listening on 127.0.0.1:48379
+1517684831369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U2RtUClevAAP"
+1517684831787	Marionette	INFO	Enabled via --marionette
+1517684833513	Marionette	INFO	Listening on port 36963
+1517684833581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Parent 28757, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517684871052	geckodriver	INFO	geckodriver 0.19.1
+1517684871055	geckodriver	INFO	Listening on 127.0.0.1:52223
+1517684872139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xQJ1LSmIiOd7"
+1517684872532	Marionette	INFO	Enabled via --marionette
+1517684873403	Marionette	INFO	Listening on port 34561
+1517684873450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29145): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517684984937	geckodriver	INFO	geckodriver 0.19.1
+1517684984940	geckodriver	INFO	Listening on 127.0.0.1:53289
+1517684986023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iC2BFw2PLLUZ"
+1517684986446	Marionette	INFO	Enabled via --marionette
+1517684987294	Marionette	INFO	Listening on port 41937
+1517684987336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29448): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517685021916	geckodriver	INFO	geckodriver 0.19.1
+1517685021919	geckodriver	INFO	Listening on 127.0.0.1:45627
+1517685023033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o4xOQTb8CbVG"
+1517685023447	Marionette	INFO	Enabled via --marionette
+1517685024269	Marionette	INFO	Listening on port 46863
+1517685024351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:29685): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517685424828	geckodriver	INFO	geckodriver 0.19.1
+1517685424831	geckodriver	INFO	Listening on 127.0.0.1:52973
+1517685425920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OYgLhxfMGwoV"
+1517685426390	Marionette	INFO	Enabled via --marionette
+1517685427263	Marionette	INFO	Listening on port 37441
+1517685427334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Parent 30263, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517685576560	geckodriver	INFO	geckodriver 0.19.1
+1517685576563	geckodriver	INFO	Listening on 127.0.0.1:49529
+1517685577672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XK7iTSFPjXT4"
+1517685578111	Marionette	INFO	Enabled via --marionette
+1517685579049	Marionette	INFO	Listening on port 41647
+1517685579082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30758): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517685670149	geckodriver	INFO	geckodriver 0.19.1
+1517685670152	geckodriver	INFO	Listening on 127.0.0.1:33541
+1517685671256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bAOjSwtn7HrT"
+1517685671791	Marionette	INFO	Enabled via --marionette
+1517685672723	Marionette	INFO	Listening on port 34295
+1517685672769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:31049): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517687869889	geckodriver	INFO	geckodriver 0.19.1
+1517687869900	geckodriver	INFO	Listening on 127.0.0.1:57923
+1517687871020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YNiYogmTBMva"
+1517687872229	Marionette	INFO	Enabled via --marionette
+1517687873264	Marionette	INFO	Listening on port 44569
+1517687873336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517687892577	geckodriver	INFO	geckodriver 0.19.1
+1517687892580	geckodriver	INFO	Listening on 127.0.0.1:50931
+1517687893664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Qv82FJegM3F2"
+1517687894099	Marionette	INFO	Enabled via --marionette
+1517687894986	Marionette	INFO	Listening on port 46191
+1517687895078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:6220): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517690934674	geckodriver	INFO	geckodriver 0.19.1
+1517690934680	geckodriver	INFO	Listening on 127.0.0.1:42487
+1517690935806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LUD1NaeakVVr"
+1517690936892	Marionette	INFO	Enabled via --marionette
+1517690937913	Marionette	INFO	Listening on port 35197
+1517690938027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:9056): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517712574784	geckodriver	INFO	geckodriver 0.19.1
+1517712574788	geckodriver	INFO	Listening on 127.0.0.1:33583
+1517712575880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bcN99qyXZxHY"
+1517712576726	Marionette	INFO	Enabled via --marionette
+1517712577763	Marionette	INFO	Listening on port 42881
+1517712577789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:2213): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517712630497	geckodriver	INFO	geckodriver 0.19.1
+1517712630500	geckodriver	INFO	Listening on 127.0.0.1:55357
+1517712631582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.16CfRc2xreml"
+1517712631963	Marionette	INFO	Enabled via --marionette
+1517712632796	Marionette	INFO	Listening on port 39367
+1517712632888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Parent 2381, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox-mnaFRO/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517712674175	geckodriver	INFO	geckodriver 0.19.1
+1517712674177	geckodriver	INFO	Listening on 127.0.0.1:59427
+1517712675264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q1TwKz9tPUuy"
+1517712675656	Marionette	INFO	Enabled via --marionette
+1517712677439	Marionette	INFO	Listening on port 42789
+1517712677474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:2885): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
