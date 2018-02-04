@@ -204,3 +204,96 @@ JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, l
 
 (/usr/lib/firefox/firefox:9440): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716462094	geckodriver	INFO	geckodriver 0.19.1
+1517716462105	geckodriver	INFO	Listening on 127.0.0.1:57933
+1517716463198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9aRYCjZE2L3G"
+1517716464349	Marionette	INFO	Enabled via --marionette
+1517716465412	Marionette	INFO	Listening on port 45647
+1517716465507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:10499): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716532079	geckodriver	INFO	geckodriver 0.19.1
+1517716532083	geckodriver	INFO	Listening on 127.0.0.1:52991
+1517716533226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BGOJlmJsGqdp"
+1517716533764	Marionette	INFO	Enabled via --marionette
+1517716534796	Marionette	INFO	Listening on port 42119
+1517716534842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11185): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716554264	geckodriver	INFO	geckodriver 0.19.1
+1517716554267	geckodriver	INFO	Listening on 127.0.0.1:49309
+1517716555387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9Xyg3NxkgnBe"
+1517716555883	Marionette	INFO	Enabled via --marionette
+1517716557038	Marionette	INFO	Listening on port 39801
+1517716557097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:11418): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517716955499	geckodriver	INFO	geckodriver 0.19.1
+1517716955502	geckodriver	INFO	Listening on 127.0.0.1:48141
+1517716956616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZGCs4F4mIZxO"
+1517716957054	Marionette	INFO	Enabled via --marionette
+1517716957945	Marionette	INFO	Listening on port 46611
+1517716958027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:13703): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517717003802	geckodriver	INFO	geckodriver 0.19.1
+1517717003805	geckodriver	INFO	Listening on 127.0.0.1:53167
+1517717004914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lCn1PkUuH8Rw"
+1517717005372	Marionette	INFO	Enabled via --marionette
+1517717007341	Marionette	INFO	Listening on port 34969
+1517717007439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/usr/lib/firefox/firefox:14012): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 14012, MediaPlayback #1] WARNING: Decoder=7f9b6bb6e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 14012, MediaPlayback #3] WARNING: Decoder=7f9b6bb6e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Child 14012, MediaPlayback #2] WARNING: Decoder=7f9b6a470a00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Child 14012, MediaPlayback #1] WARNING: Decoder=7f9b780d7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 14012, MediaPlayback #3] WARNING: Decoder=7f9b780d7800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Child 14012, MediaPlayback #4] WARNING: Decoder=7f9b68ed7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 14012, MediaPlayback #2] WARNING: Decoder=7f9b68ed7000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Child 14012, MediaPlayback #3] WARNING: Decoder=7f9b695dce00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+[Child 14012, MediaPlayback #1] WARNING: Decoder=7f9b695dce00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+[Child 14012, MediaPlayback #2] WARNING: Decoder=7f9b78155800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<mozilla::MozPromise<RefPtr<mozilla::MediaTrackDemuxer::SamplesHolder>, mozilla::MediaResult, true> > mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-mnaFRO/firefox-58.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3365
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+1517719770603	geckodriver	INFO	geckodriver 0.19.1
+1517719770607	geckodriver	INFO	Listening on 127.0.0.1:35355
+1517719771733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KI0vlCxPbhW2"
+1517719772220	Marionette	INFO	Enabled via --marionette
+1517719773088	Marionette	INFO	Listening on port 45229
+1517719773142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-37399313-4, line 69: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:18493): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied

@@ -10,7 +10,7 @@ import pytesseract
 
 
 # driver = webdriver.Chrome(executable_path='./chromedriver')
-driver = webdriver.Firefox(executable_path='./geckodriver')
+driver = webdriver.Firefox(executable_path='../drivers/geckodriver')
 driver.set_window_size(1024, 768)
 driver.get('https://www.allticket.com/findex.html?d=1517665139545')
 driver.find_element_by_id('loginBtn').click()
